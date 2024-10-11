@@ -1,0 +1,12 @@
+Steps to Deploy on Streamlit Cloud
+
+1. Push Your Code to GitHub:
+    Create a new repository on GitHub.
+    Push your Streamlit application code to this repository.
+2. Set Up Streamlit Community Cloud:
+    Go to Streamlit Community Cloud.
+    Sign in with your GitHub account.
+    Click on “New app” and select the repository and branch where your code is located.
+    Click “Deploy”.
+3. Access Your Application:
+    Once deployed, Streamlit Cloud will provide you with a URL to access your application. You can open this URL on any device, including mobile phones.
